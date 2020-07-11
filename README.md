@@ -4,6 +4,11 @@
 ## Overview
 A simple dodging game. Just move your cube sideways to avoid obstacles and reach the end.
 
+<p align="center">
+  <img src="https://github.com/urastogi885/cube-run/blob/master/images/game_play.gif">
+  <br><b>Figure 1 - Level 1 of the game</b><br>
+</p>
+
 ## Dependencies
 
 - Unity
