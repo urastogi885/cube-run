@@ -56,3 +56,9 @@ dkms.conf
 
 # Bulid files
 build/
+
+# Logs
+logs/
+
+# Debug files
+obj\
