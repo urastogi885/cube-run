@@ -575,7 +575,7 @@ GameObject:
   - component: {fileID: 1550685811}
   - component: {fileID: 1550685810}
   m_Layer: 5
-  m_Name: BlocksRun
+  m_Name: CubeRun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -632,7 +632,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: BLOCKS RUN
+  m_Text: CUBE RUN
 --- !u!222 &1550685811
 CanvasRenderer:
   m_ObjectHideFlags: 0
