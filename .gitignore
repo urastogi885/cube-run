@@ -53,3 +53,6 @@ dkms.conf
 
 # Project files
 .vscode/
+
+# Bulid files
+build/
