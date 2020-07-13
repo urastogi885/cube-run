@@ -6,6 +6,6 @@ public class Controls : MonoBehaviour
     public void ReturnToMainMenu()
     {
         Debug.Log("Return back to the main menu");
-        SceneManager.LoadScene("Menu");
+        SceneManager.LoadScene(0);
     }
 }
