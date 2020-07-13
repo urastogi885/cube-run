@@ -4,7 +4,7 @@ public class Credits : MonoBehaviour
 {
     public void QuitGame()
     {
-        Debug.Log("QUIT!");
+        Debug.Log("Player has quit the game!");
         Application.Quit();
     }
 }
