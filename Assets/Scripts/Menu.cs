@@ -11,10 +11,10 @@ public class Menu : MonoBehaviour
     }
 
     // Method to go to control settings scene
-    public void ControlSettings()
+    public void GoToControls()
     {
         Debug.Log("Switched to control settings scene");
-        // SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        SceneManager.LoadScene("Controls");
     }
 
     // Method to exit the game
