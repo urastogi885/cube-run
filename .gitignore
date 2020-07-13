@@ -53,6 +53,9 @@ dkms.conf
 
 # Project files
 .vscode/
+Library/
+*.csproj
+*.sln
 
 # Bulid files
 build/
@@ -61,4 +64,4 @@ build/
 logs/
 
 # Debug files
-obj\
+obj/
